@@ -1,0 +1,17 @@
+body{
+    background-image: url(incorrecto.gif);
+}
+
+h1{color: rgb(141, 16, 16);}
+
+div p {
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+    font-size: large;
+
+}
+
+span{color: red;}
+
+p a{font-size: large;}

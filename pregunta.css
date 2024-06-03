@@ -1,0 +1,32 @@
+.foto { 
+ border: 3px;
+border-color: indigo;
+padding: 2px;
+border-style: solid;
+}
+
+div h1 [align="center"] {background-color: aquamarine;}
+
+.nombre {
+text-decoration: underline;
+color: rgb(123, 182, 35);
+
+
+}
+
+body{ background-image: url(mundo.gif);
+}
+
+p{
+
+    color: white;
+}
+
+.texto{
+    color: white;
+}
+
+.titular{ 
+    color: rgba(12, 138, 131, 0.774);
+}
+
